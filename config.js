@@ -31,7 +31,7 @@ let badWords = [
   "bhodike",
   "bsdk","randi",
   "gandu",
-  "tora bahin k chodo re randi k janmal tit chu jau",
+  "fk",
   "ass",
   "asshole",
   "madarchod",
@@ -74,7 +74,7 @@ module.exports = {
   ownernumber: process.env.Owner_Number || "918609696428",
   instagramId: process.env.Insta || "8.08_only_mine",
   warns: process.env.Warns_Limits || 3,
-  mongoUrl: process.env.MongoDB || "mongodb+srv://DARKSHAN:3000@cluster0.t1wsjlv.mongodb.net/",
+  mongoUrl: process.env.MongoDB || "",
   welcome: process.env.Welcome_Msg || '*@$user* joined this group today as $membersth member.\n\n_$prefix welcome off to disable this message._',
   left: process.env.Left_Msg || 'Ex-member *@$user* is no longer available in this group chat.\n\n_$prefix goodbye off to disable this message._',
   promote: process.env.Promote_Msg || '*@$user* has been promoted as an admin in this group.\n\n_$prefix promotem off to disable this message._',
@@ -117,7 +117,7 @@ global.ownernumber = process.env.Owner_Number || "916900904828"
 global.adress = process.env.Continent || "Asia, India, Assam" 
 global.timezone = process.env.TimeZone || "Asia/Kolkata" 
 global.instagramId = process.env.Insta || "8.08_only_mine" 
-global.email = process.env.Email_Id || "example@example.com" 
+global.email = process.env.Email_Id || "rishiranjangtk@gmail.com" 
   
 //--------------- Tip ----------------\\
 global.Tips = [
